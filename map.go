@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var usermap map[int]string = map[int]string{
+	var usermap = map[int]string{
 		1: "小明",
 		2: "小红",
 		4: "",

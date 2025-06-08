@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+//Readme.md
+//  局部变量的声明
+//	全局变量的声明
+//	多变量的声明
+
 // 声明全局变量1、2、3
 var ga int = 1
 var gb = 200
